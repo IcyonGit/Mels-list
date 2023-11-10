@@ -2,13 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 body {
-  background: #363433;
-
+  background-image: linear-gradient(to bottom right, rgb(61, 60, 60),rgb(121, 118, 118),rgb(134, 134, 133));
+  background-attachment: fixed;
 
 }
 
 .Topbar {
   margin-left: 10px;
+  color: white;
 
 
 
