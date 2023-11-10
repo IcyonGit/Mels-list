@@ -16,8 +16,8 @@ const playBtn = document.querySelector(".play"),
 
 this.tracks = [
     {
-        name: "Tech House vibes",
-        artist: "Artist 1",
+        name: "Im not okay",
+        artist: "DeadFish",
         cover: "https://images.unsplash.com/photo-1494232410401-ad00d5433cfa?crop=entropy&cs=tinysrgb&fm=jpg",
         source: "https://assets.mixkit.co/music/download/mixkit-tech-house-vibes-130.mp3",
     },
@@ -32,6 +32,20 @@ this.tracks = [
         artist: "Artist 3",
         cover: "https://images.unsplash.com/photo-1516280440614-37939bbacd81?crop=entropy&cs=tinysrgb&fm=jpg",
         source: "https://assets.mixkit.co/music/download/mixkit-dreaming-big-31.mp3",
+    },
+    {
+        name: "",
+        artist:"",
+        cover:"",
+        source:"",
+
+    },
+    {
+        name: "",
+        artist:"",
+        cover:"",
+        source:"",
+        
     },
 ];
 
