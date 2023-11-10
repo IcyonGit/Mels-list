@@ -49,6 +49,7 @@ h1 {
     flex-direction: column;
     overflow: hidden;
     cursor: pointer;
+    padding-left: 50px;
 }
 
 .audio-img {
@@ -77,8 +78,8 @@ h6 {
 .audio-progress {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    width: 30%;
-    padding-left: 25px;
+    width: 35%;
+    
 }
 
 .progress {
@@ -128,6 +129,7 @@ h6 {
     display: inline-flex;
     align-items: center;
     justify-content: space-between;
+    
 }
 
 .btn {

@@ -18,7 +18,7 @@ this.tracks = [
     {
         name: "Im not okay",
         artist: "DeadFish",
-        cover: "https://images.unsplash.com/photo-1494232410401-ad00d5433cfa?crop=entropy&cs=tinysrgb&fm=jpg",
+        cover: "assets/pics/inodf.jpeg",
         source: "https://assets.mixkit.co/music/download/mixkit-tech-house-vibes-130.mp3",
     },
     {
