@@ -19,7 +19,7 @@ this.tracks = [
         name: "Im not okay",
         artist: "DeadFish",
         cover: "assets/pics/inodf.jpeg",
-        source: "assets/mp3/song1.mp3",
+        source: "https://whyp-dl.b-cdn.net/61febb89-e8f7-48df-bbf1-207bd477debb.mp3?token=b7ih0E6PS-n5-mWNQbK-qw&expires=1699814198&filename=Deadfish%20-%20I%27m%20not%20okay%20%28lyrics%29%20%28320%20kbps%29.mp3",
     },
     {
         name: "Hip Hop 02",
