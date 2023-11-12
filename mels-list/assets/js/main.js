@@ -18,20 +18,20 @@ this.tracks = [
     {
         name: "Im not okay",
         artist: "DeadFish",
-        cover: "assets/pics/inodf.jpeg",
-        source: "assets/mp3/Deadfish - I'm not okay (lyrics) (320 kbps).mp3",
+        cover: "assets/pics/Deadfish.jpeg",
+        source: "assets/mp3/Deadfish.mp3",
     },
     {
         name: "1-800-273-8255",
         artist: "Logic ft. Alessia Cara, Khalid",
-        cover: "assets/pics/download (6).jpeg",
-        source: "assets/mp3/Logic - 1-800-273-8255 ft. Alessia Cara, Khalid (Lyric Video) (320 kbps).mp3",
+        cover: "assets/pics/Logic.jpeg",
+        source: "assets/mp3/Logic.mp3",
     },
     {
-        name: "Dreaming Big",
-        artist: "Artist 3",
-        cover: "https://images.unsplash.com/photo-1516280440614-37939bbacd81?crop=entropy&cs=tinysrgb&fm=jpg",
-        source: "https://assets.mixkit.co/music/download/mixkit-dreaming-big-31.mp3",
+        name: "Trees",
+        artist: "Twenty Øne PilØts",
+        cover: "assets/pics/TOP.jpeg",
+        source: "assets/mp3/TOP.mp3",
     },
     {
         name: "",
