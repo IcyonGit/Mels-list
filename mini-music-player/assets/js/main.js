@@ -24,7 +24,7 @@ this.tracks = [
     {
         name: "1-800-273-8255",
         artist: "Logic ft. Alessia Cara, Khalid",
-        cover: "https://images.unsplash.com/photo-1485579149621-3123dd979885?crop=entropy&cs=tinysrgb&fm=jpg",
+        cover: "assets/pics/download (6).jpeg",
         source: "assets/mp3/Logic - 1-800-273-8255 ft. Alessia Cara, Khalid (Lyric Video) (320 kbps).mp3",
     },
     {
