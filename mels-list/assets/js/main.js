@@ -16,7 +16,7 @@ const playBtn = document.querySelector(".play"),
 
 this.tracks = [
     {
-        name: "Im not okay",
+        name: "I'm not okay",
         artist: "DeadFish",
         cover: "assets/pics/Deadfish.jpeg",
         source: "assets/mp3/Deadfish.mp3",
