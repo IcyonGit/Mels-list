@@ -22,10 +22,10 @@ this.tracks = [
         source: "assets/mp3/Deadfish - I'm not okay (lyrics) (320 kbps).mp3",
     },
     {
-        name: "Hip Hop 02",
-        artist: "Artist 2",
+        name: "1-800-273-8255",
+        artist: "Logic ft. Alessia Cara, Khalid",
         cover: "https://images.unsplash.com/photo-1485579149621-3123dd979885?crop=entropy&cs=tinysrgb&fm=jpg",
-        source: "https://assets.mixkit.co/music/download/mixkit-hip-hop-02-738.mp3",
+        source: "assets/mp3/Logic - 1-800-273-8255 ft. Alessia Cara, Khalid (Lyric Video) (320 kbps).mp3",
     },
     {
         name: "Dreaming Big",
